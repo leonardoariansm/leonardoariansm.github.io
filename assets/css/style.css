@@ -229,17 +229,17 @@ header .navbar ul li a:hover {
 .home .content h2 span {
   font-size: 5rem;
   font-weight: 800;
-  color: #ff7b00;
+  color: #9C9C9C;
 }
 .home .content p {
   font-size: 2.5rem;
-  color: #000;
+  color: #fff;
   font-weight: 600;
   padding: 1rem 0;
 }
 .home .content p span {
   font-size: 2.5rem;
-  color: rgb(148, 8, 8);
+  color: rgb(156, 156, 156);
   font-weight: 600;
   padding: 1rem 0;
 }
