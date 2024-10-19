@@ -34,10 +34,10 @@ html::-webkit-scrollbar {
   width: 0.8rem;
 }
 html::-webkit-scrollbar-track {
-  background: rgb(235, 202, 245);
+  background: rgb(255, 255, 255);
 }
 html::-webkit-scrollbar-thumb {
-  background: #420177;
+  background: #9C9C9C;
 }
 
 /* pre loader start */
@@ -70,7 +70,7 @@ header {
   justify-content: space-between;
   padding: 1.7rem 10%;
   height: 6.5rem;
-  background-color: #fff;
+  background-color: #141414;
   box-shadow: 0 1px 4px rgba(146, 161, 176, 0.3);
 }
 section {
